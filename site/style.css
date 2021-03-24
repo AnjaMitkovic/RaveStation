@@ -312,6 +312,10 @@ hr{
     color: white;
 }
 
+#color-kontakt{
+    color: white;
+}
+
 #color-dropdown1{
     color:black;
     transition-duration:0.5s;
@@ -569,6 +573,65 @@ h3{
 #satnica-Nina{
     font-family: bord demo;
 }
+
+#kon{
+    margin-top: 10px;
+    display: inline-block;
+    position: fixed;
+}
+
+.informacije{
+    font-family: bord demo;
+    color: #ffffff;
+    margin-top: 10px;
+}
+#email-div{
+    display: inline-block;
+    width: 100%;
+    margin-left: -10px;
+}
+
+#telefon-div{
+    display: inline-block;
+    width: 100%;
+}
+
+#adresa-div{
+    display: inline-block;
+    width: 100%;
+}
+
+#email-kontakt{
+    width:80%;
+    transition: 1s;
+}
+
+#email-kontakt:hover{
+    width:82%;
+    transition: 1s;
+}
+
+#adresa-kontakt{
+    width: 80%;
+    transition: 1s;
+}
+
+#adresa-kontakt:hover{
+    width: 82%;
+    transition: 1s;
+}
+
+#telefon-kontakt{
+    width: 80%;
+    transition: 1s;
+}
+
+#telefon-kontakt:hover{
+    width: 82%;
+    transition: 1s;
+}
+
+
 
 @media only screen and (max-width: 991.98px){
     .ravegif{margin-top: 66px;  }
